@@ -1,0 +1,73 @@
+replace; Client Name: Nephromed
+Reference: Thank you, Bharathbrands, for revolutionizing our healthcare system with your exceptional HIMS software. Your innovative solutions have truly empowered Nephromed to deliver superior patient care and streamline our operations. We appreciate your dedication and expertise in shaping the future of healthcare
+
+Client: Kitchen Express
+Reference: Thank you, Bharathbrands, for providing us with an exceptional payment gateway solution. Your seamless and secure platform has streamlined our transactions, making the ordering process smoother for our customers. We truly value your expertise and dedication to excellence.
+Client: Risk Africa Innovatis
+Reference: Thank you, Bharathbrands, for your exceptional customization of our Enterprise Risk Management system. Your expertise and attention to detail have significantly enhanced our risk management processes, empowering us to make informed decisions and mitigate potential threats effectively. We truly appreciate your dedication to our success.
+
+Client: Kalabam Realtors
+Reference: Thank you, Bharathbrands, for delivering an exceptional ERP system and customizing our online property marketplace and ecommerce platform. Your innovative solutions have transformed our operations, making property management and sales seamless and efficient. We deeply value your partnership and expertise in driving our success.
+
+Client: Housing Finance Bank
+Reference: Kudos to Bharathbrands for seamless system integrations implementation! Your expertise and dedication have elevated our operations to new heights, ensuring smooth workflow and enhanced efficiency. Thank you for being an invaluable partner in our journey to success.
+
+
+style="overflow-y: auto; background-color: #e2f2f5;  height: 350px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"style="overflow-y: auto; background-color: #e2f2f5; color: black; "style="overflow-y: auto; background-color: #e2f2f5; color: black; "
+
+
+
+style="overflow-y: auto; background-color: #e2f2f5; color: black; "
+
+                            <div class="link-animated d-flex flex-column justify-content-start">
+                                <a class="text-light mb-2" href="index.html"><i
+                                        class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                                <a class="text-light mb-2" href="about.html"><i
+                                        class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+                                <a class="text-light mb-2" href="products.html"><i
+                                        class="bi bi-arrow-right text-primary me-2"></i>Our Products</a>
+                                <!-- <a class="text-light mb-2" href="#"><i
+                                        class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
+                                <a class="text-light mb-2" href="#"><i
+                                        class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a> -->
+                                <a class="text-light" href="contact.html"><i
+                                        class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+                            </div>
+
+
+<div class="team-social">
+<a class="btn btn-lg btn-primary btn-lg-square rounded" href="https://twitter.com/Bharath_Brands"><i
+        class="fab fa-twitter fw-normal"></i></a>
+<a class="btn btn-lg btn-primary btn-lg-square rounded" href="https://www.facebook.com/people/Bharathbrands/100067466525484/"><i
+        class="fab fa-facebook-f fw-normal"></i></a>
+<a class="btn btn-lg btn-primary btn-lg-square rounded" href="https://api.whatsapp.com/send?phone=+918056214197&text=Hello%20Team%20I%20need%20an%20Enquiry%20about%20product..!"><i
+        class="fab fa-whatsapp"></i></a>
+<a class="btn btn-lg btn-primary btn-lg-square rounded" href="https://www.linkedin.com/company/bharathbrands/"><i
+        class="fab fa-linkedin-in fw-normal"></i></a>
+</div>  
+
+
+
+    <div class="d-flex mt-5">
+                                <a class="btn btn-primary btn-square me-2" href="><i
+                                        class="fab fa-twitter fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="><i
+                                        class="fab fa-facebook-f fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="><i
+                                        class="fab fa-linkedin-in fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="><i
+                                        class="fab fa-whatsapp"></i></a>
+                                <a class="btn btn-primary btn-square" ><i
+                                    class="fas fa-phone"></i></a>
+                            </div>
+
+
+https://twitter.com/Bharath_Brands" target="_blank"  
+
+https://www.facebook.com/people/Bharathbrands/100067466525484/"target="_blank"
+
+https://www.linkedin.com/company/bharathbrands/"target="_blank"
+
+https://api.whatsapp.com/send?phone=+918056214197&text=Hello%20Team%20I%20need%20an%20Enquiry%20about%20product..!"target="_blank"
+
+href="tel:+918056214197"
